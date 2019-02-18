@@ -1,3 +1,2 @@
-# Metis Data Science Portfolio - Winter 2019
+# Metis Data Science Portfolio - Project McNulty (03), Winter 2019
 
-A repository for projects completed at Metis Data Science Bootcamp.
