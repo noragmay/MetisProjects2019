@@ -6,4 +6,4 @@ The data came from IMDb. I used the information about 150,000 TV series (genre, 
 
 The data set was balanced between "yes" renewed and "no" not renewed. I separated the test/train/validation sets keeping entire shows together, however each observation was information about single season of a show and whether or not it was renewed.
 
-With a random forest model, I was able to achieve 76% accuracy on a test set.
+With a random forest model with 100 trees with max depth of 11, I was able to achieve 72% accuracy on the test set.
